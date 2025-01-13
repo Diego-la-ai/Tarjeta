@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Diego</title>
+</head>
+<body>
+    <h1>Bienvenidos a mi portafolio</h1>
+    <p>Estoy trabajando en proyectos de análisis de datos.</p>
+</body>
+</html>
